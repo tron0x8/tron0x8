@@ -1,28 +1,41 @@
-```
-  _____                 
- |_   _| __ ___  _ __   
-   | || '__/ _ \| '_ \  
-   | || | | (_) | | | | 
-   |_||_|  \___/|_| |_| 
-                        
-```
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Tron;Security+Researcher;Rust+Developer" alt="Typing SVG" />
+</h1>
 
-### Security Researcher & Developer
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DDoS%20Mitigation-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Network%20Security-blue?style=for-the-badge"/>
+</p>
 
 ```rust
-let focus = ["DDoS Mitigation", "Reverse Proxy", "Network Security"];
+struct Tron {
+    role: &'static str,
+    focus: [&'static str; 3],
+    tools: [&'static str; 4],
+}
+
+const ME: Tron = Tron {
+    role: "Security Researcher & Developer",
+    focus: ["DDoS Mitigation", "Reverse Proxy", "Network Security"],
+    tools: ["Rust", "Go", "TypeScript", "Linux"],
+};
 ```
 
-#### Currently Working On
-- **[Fortress](https://github.com/tron-security/fortress)** — Enterprise Anti-DDoS Reverse Proxy (Rust)
+### Projects
 
-#### Stack
-`Rust` `Go` `TypeScript` `Python` `Linux` `Networking`
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Fortress**](https://github.com/tron0x8/fortress) | Enterprise Anti-DDoS Reverse Proxy | Rust, Tokio, Hyper |
+| [**Apex**](https://github.com/tron0x8/apex) | — | — |
+
+### Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,typescript,python,linux,docker,nginx,git&theme=dark" />
+</p>
 
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Rust-000?style=flat&logo=rust"/>
-<img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=linux"/>
-<img src="https://img.shields.io/badge/-Security-000?style=flat&logo=hackaday"/>
+  <img src="https://komarev.com/ghpvc/?username=tron0x8&color=brightgreen&style=flat-square&label=Profile+Views"/>
 </p>
