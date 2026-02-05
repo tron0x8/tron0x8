@@ -26,7 +26,7 @@ const ME: Tron = Tron {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Fortress**](https://github.com/tron0x8/fortress) | Enterprise Anti-DDoS Reverse Proxy | Rust, Tokio, Hyper |
-| [**Apex**](https://github.com/tron0x8/apex) | — | — |
+| [**Apex**](https://github.com/tron0x8/apex) | PHP Static Security Analyzer | Python |
 
 ### Tech
 
